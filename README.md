@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-My name is **Aziz Maitig**, a software engineering student based in **Nabeul, Tunisia**.
+My name is **Aziz Maitig**, IT engineering student based in **Nabeul, Tunisia**.
 
 🎓 I am currently in my final year of engineering in **Embedded Systems** at **ESPRIT** (expected graduation: October 2026).
 
