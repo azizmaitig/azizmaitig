@@ -7,6 +7,8 @@ on:
 
 permissions:
   contents: write
+  pages: write                    # Add this permission
+  id-token: write                 # Add this permission for OIDC token
 
 jobs:
   build:
