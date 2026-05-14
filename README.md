@@ -204,19 +204,6 @@ mindset    : build-first, learn-by-doing, ship real things
 
 ---
 
-## 💼 Experience
-
-**Stagiaire Développeur** @ **EasyTek**, Tunis *(Jul – Sep 2025)*
-> CongoFood platform maintenance — Angular · Symfony · PostgreSQL · Docker · AWS
-
-**Stagiaire Développeur** @ **Confledis**, Tunis *(Jul – Aug 2024)*
-> Desktop RFID attendance system — Java Swing · MySQL
-
-**Embedded Systems Intern** @ **Coroplast We Wire**, Nabeul *(Feb – Jun 2023)*
-> Real-time IoT supervision system with AI anomaly detection
-
----
-
 ## 🎯 Currently Focused On
 
 ```
