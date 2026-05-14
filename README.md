@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003b00,100:00ff41&height=200&section=header&text=Aziz%20Maitig&fontSize=60&fontColor=00ff41&fontAlignY=38&desc=Embedded%20Systems%20·%20AI%20·%20Edge%20Tech&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Final+Year+Embedded+Systems+Engineer;Always+building+real+things.)](https://git.io/typing-svg)
 
 <br/>
