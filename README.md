@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Final+Year+Embedded+Systems+Engineer;AI+%26+NLP+Builder;Founder+of+Lexium+%F0%9F%87%B9%F0%9F%87%B3;Always+building+real+things.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Final+Year+Embedded+Systems+Engineer;Always+building+real+things.)](https://git.io/typing-svg)
 
 <br/>
 
