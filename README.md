@@ -9,10 +9,10 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/aziz-maitig-b59006162/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c1"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41"/>
 </a>
 <a href="mailto:azizmaitig@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=4185f3"/>
+  <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41"/>
 </a>
 <a href="https://github.com/azizmaitig" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff41"/>
