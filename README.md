@@ -45,9 +45,7 @@ location   : Tunisia 🇹🇳
 education  : Final Year @ ESPRIT — Embedded Systems Engineering (Oct 2026)
              Applied License in Electronics — ISET Nabeul (2023)
 
-currently  : Building Lexium — Tunisia's first AI-powered legal intelligence platform
-             → RAG pipeline with AraBERT + BM25 + RRF + Groq LLM
-             → 8,000+ Tunisian legal articles indexed
+currently  : ...
 
 interests  : Embedded AI · LLMs & RAG · IoT Systems · Legal Tech · Cryptography
 mindset    : build-first, learn-by-doing, ship real things
