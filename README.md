@@ -64,7 +64,7 @@ mindset    : build-first, learn-by-doing, ship real things
 
 - 🔍 **Hybrid RAG**: AraBERT + BM25 + RRF retrieval
 - 🤖 **LLM layer**: Groq-powered Q&A with streaming
-- 📚 **Corpus**: 8,000+ Arabic legal articles (JORT)
+- 📚 **Corpus**: 8,000+ Arabic legal articles 
 - 🧩 **Stack**: FastAPI · Qdrant · PostgreSQL · Neo4j
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-00ff41?style=flat-square&logo=fastapi&logoColor=000000)](https://github.com/azizmaitig)
