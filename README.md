@@ -63,8 +63,8 @@ mindset    : build-first, learn-by-doing, ship real things
 > Tunisia's first intelligent legal assistant
 
 - 🔍 **Hybrid RAG**: AraBERT + BM25 + RRF retrieval
-- 🤖 **LLM layer**: Groq-powered Q&A with streaming
-- 📚 **Corpus**: 8,000+ Arabic legal articles 
+- 🤖 **LLM layer**: LLM-powered Q&A with streaming
+- 📚 **Corpus**: Arabic legal articles 
 - 🧩 **Stack**: FastAPI · Qdrant · PostgreSQL · Neo4j
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-00ff41?style=flat-square&logo=fastapi&logoColor=000000)](https://github.com/azizmaitig)
@@ -94,7 +94,7 @@ mindset    : build-first, learn-by-doing, ship real things
 ### 🏭 Industrial IoT Supervision — Coroplast
 > Real-time factory monitoring system
 
-- 📡 **Hardware**: ESP32, ESP32-CAM, ultrasonic + PIR + DHT11
+- 📡 **Hardware**: ESPRESSIF + PIR + DHT11
 - 📊 **Stack**: InfluxDB + Node-RED + Grafana
 - 🤖 **AI**: YOLOv5 anomaly detection on Raspberry Pi
 - 📶 **Protocols**: MQTT, I2C, SPI, UART
@@ -205,10 +205,7 @@ mindset    : build-first, learn-by-doing, ship real things
 ## 🎯 Currently Focused On
 
 ```
-🔬  Lexium v7+ — Multilingual-E5-large embeddings + Arabic-MiniLM reranker
-🏗️  Law versioning, impact detection & lawyer notification engine
-📡  Deploying ML models on edge devices (STM32, Raspberry Pi)
-🔐  Bitcoin Puzzle research — Elliptic Curve Cryptography
+🏗️  Lexium v7+ ,Law versioning, impact detection & lawyer notification engine
 ```
 
 ---
